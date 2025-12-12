@@ -9,3 +9,6 @@ https://github.com/user-attachments/assets/ab3e3f72-5b7c-4797-9f23-ddea03897f1a
 ## Exercise 2: Interact with the whisper detector
 
 https://github.com/user-attachments/assets/86539007-1616-408d-9865-2b219f16a1f5
+
+This is the link if github have problems:
+[https://youtu.be/DRccIKRvLX0](https://youtu.be/DRccIKRvLX0)
