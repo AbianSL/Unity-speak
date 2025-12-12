@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/25fd0253-cbe4-437b-b2b3-8fa91d64aae7
 # whisper.unity
 This project has two exercise, the first is to prove that the apk formthe scene 2 works on android devices, and the second is to integrate the whisper model into a unity project.
 
