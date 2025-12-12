@@ -3,12 +3,19 @@ This project has two exercise, the first is to prove that the apk formthe scene 
 
 ## Exercise 1: Build and Run APK on Android Device
 
-https://github.com/user-attachments/assets/ab3e3f72-5b7c-4797-9f23-ddea03897f1a
+
+
+https://github.com/user-attachments/assets/8d68a91a-aacc-4750-a1f2-63df90706e4b
+
 
 
 ## Exercise 2: Interact with the whisper detector
 
-https://github.com/user-attachments/assets/86539007-1616-408d-9865-2b219f16a1f5
+
+
+https://github.com/user-attachments/assets/b5d2a359-2ca1-4cc5-9fcf-186ef88ec7c0
+
+
 
 This is the link if github have problems:
 [https://youtu.be/DRccIKRvLX0](https://youtu.be/DRccIKRvLX0)
