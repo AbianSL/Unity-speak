@@ -43,9 +43,11 @@ namespace Whisper.Samples
         {
             if (Input.GetKey(KeyCode.Space) && !microphoneRecord.IsRecording)
             {
+                UnityEngine.Debug.Log("Start Recording");
                 microphoneRecord.StartRecord();
             } else if (Input.GetKey(KeyCode.S) && microphoneRecord.IsRecording)
             {
+                UnityEngine.Debug.Log("Stop Recording");
                 microphoneRecord.StopRecord();
             }
         }
